@@ -6,8 +6,11 @@ Summarizes a body of text by using tfidf to score the most important, relevant s
  * requests
  * BeautifulSoup
  * pandas
+ * numpy
  * re
  * HTMLParser
  * sklearn
  * urllib
  * TextBlob
+ * matplotlib
+ * nltk
